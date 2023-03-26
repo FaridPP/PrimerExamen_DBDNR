@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "641fdb44a47653be6d7b524f"
+  },
+  "Titulo": "Don Quijote de la Mancha",
+  "Autor": "Miguel de Cervantes",
+  "Publicacion": 1605,
+  "Genero": "Aventura"
+},{
+  "_id": {
+    "$oid": "641fdbd452735e4d3b727522"
+  },
+  "Titulo": "Poesia Ultima",
+  "Autor": "Claudia Lars",
+  "Publicacion": 1972,
+  "Genero": "Poesia"
+},{
+  "_id": {
+    "$oid": "641fe3985d45724083f524c6"
+  },
+  "Titulo": "Cantata de los Diablos",
+  "Autor": "Marcos Aguinis",
+  "Publicacion": 1972,
+  "Genero": "Narrativa"
+}]
